@@ -1,0 +1,9 @@
+openvino
+opencv-python
+seaborn
+pandas
+numpy
+matplotlib
+ultralytics
+lapx>=0.5.2
+streamlit
